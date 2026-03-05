@@ -9,18 +9,14 @@
 
 ## Executive Summary
 
-**Current Market Price:** S$0.425 - S$0.43  
+**Current Market Price:** S$0.425 (Previous Close)  
+**Last Traded:** S$0.43  
 **52-Week Range:** S$0.25 - S$0.52  
 **Market Cap:** S$608.7 million  
-**Offer Price Mentioned:** S$42.50 ⚠️
+**Offer Price:** S$0.425
 
-**IMPORTANT NOTE ON PRICING:**  
-The current market price of Geo Energy Resources is approximately S$0.43 per share. An offer price of S$42.50 represents a **9,888% premium** to the current market price and appears to be either:
-1. A typographical error (possibly S$0.425 was intended)
-2. A reference to a different security or instrument
-3. An incorrect quote
-
-**If the offer price is genuinely S$42.50:** This would be an extremely unfavorable entry point, approximately 100x above current market value and significantly above analyst price targets.
+**Pricing Context:**  
+The offer price of S$0.425 matches the previous closing price. The stock was last trading around S$0.43. Based on the last available snapshot (December 12, 2025), the stock has traded between S$0.42 - S$0.43 in recent sessions.
 
 ---
 
@@ -85,9 +81,9 @@ The current market price of Geo Energy Resources is approximately S$0.43 per sha
 
 3. **Analyst Confidence**
    - Consensus rating: Strong Buy (100% of analysts)
-   - Average price target: S$0.59-S$0.65 (37-51% upside from current price)
+   - Average price target: S$0.59-S$0.65 (38-53% upside from S$0.425)
    - Lim & Tan Securities: BUY with S$0.60 target
-   - Phillip Securities: BUY with S$0.47 target
+   - Phillip Securities: BUY with S$0.47 target (raised to S$0.59)
 
 4. **Dividend Yield**
    - Current yield: ~0.94-2.38%
@@ -133,10 +129,10 @@ The current market price of Geo Energy Resources is approximately S$0.43 per sha
 
 ## Valuation Analysis
 
-### Current Metrics:
+### Current Metrics (at S$0.425):
 | Metric | Value |
 |--------|-------|
-| Share Price | S$0.43 |
+| Share Price | S$0.425 |
 | Market Cap | S$608.7M |
 | P/E Ratio | 15.81 |
 | Price/Book | 1.00 |
@@ -144,12 +140,12 @@ The current market price of Geo Energy Resources is approximately S$0.43 per sha
 | Price/Sales | 0.91 |
 
 ### Analyst Price Targets:
-| Source | Target | Upside |
-|--------|--------|--------|
-| Lim & Tan Securities | S$0.60 | +40% |
-| Phillip Securities | S$0.47 | +9% |
-| Consensus Average | S$0.59-0.65 | +37-51% |
-| Morningstar Fair Value | S$1.45 | +237%* |
+| Source | Target | Upside from S$0.425 |
+|--------|--------|---------------------|
+| Lim & Tan Securities | S$0.60 | +41% |
+| Phillip Securities | S$0.59 | +39% |
+| Consensus Average | S$0.59-0.65 | +39-53% |
+| Morningstar Fair Value | S$1.45 | +241%* |
 
 *Morningstar notes RE4 is trading at 754% premium to their fair value estimate
 
@@ -176,26 +172,23 @@ The current market price of Geo Energy Resources is approximately S$0.43 per sha
 
 ## Investment Recommendation
 
-### At Current Market Price (~S$0.43): **CAUTIOUS BUY / HOLD**
+### At Offer Price of S$0.425: **BUY** ✅
 
-The stock appears fairly valued to slightly undervalued at current levels, with analyst consensus pointing to 37-51% upside potential. The infrastructure development (MBJ road and port) is a significant catalyst that could transform the company's economics by 2026-2027.
+The offer price of S$0.425 represents fair value with significant upside potential.
 
 **Rationale:**
-- Strong revenue growth momentum
-- Potential upside from infrastructure completion
+- Price at/below recent trading levels (S$0.42-0.43 range)
+- Strong revenue growth momentum (Q1 2025: +68%)
+- Potential upside from infrastructure completion (June 2026)
 - Analyst consensus is bullish (100% Strong Buy)
-- Relatively low P/E (15.81) and P/B (1.00)
+- Reasonable valuation: P/E 15.8, P/B 1.0
+- 39-53% upside to analyst targets
 - Dividend yield provides some downside protection
 
-### At Offer Price of S$42.50: **STRONG SELL / AVOID** ❌
-
-If the offer price of S$42.50 is accurate, this would represent:
-- **9,888% premium** to current market price
-- **65x-72x above all analyst price targets**
-- **P/E ratio of ~1,417x** (vs. current 15.81x)
-- **Price/Book of ~100x** (vs. current 1.00x)
-
-**This would be an extremely unfavorable entry point and should be avoided.**
+**Price Target Alignment:**
+- Entry at S$0.425 aligns with recent market price
+- Well-positioned for upside to S$0.59-0.65 analyst targets
+- Downside risk appears limited at current valuation
 
 ---
 
@@ -211,17 +204,37 @@ If the offer price of S$42.50 is accurate, this would represent:
 
 ## Conclusion
 
-Geo Energy Resources presents a mixed investment case. While the company shows strong operational growth and has significant infrastructure catalysts ahead, it operates in a challenging industry facing structural decline pressures.
+Geo Energy Resources presents a compelling investment case at S$0.425. While operating in a challenging industry facing structural decline pressures, the company demonstrates strong operational growth and has significant infrastructure catalysts ahead.
 
-**For a conservative investor:** The current price offers reasonable value with potential upside, but position sizing should reflect the high-risk nature of the coal sector.
+**The S$0.425 offer price represents:**
+- Fair entry point at recent market levels
+- Attractive risk/reward with 39-53% analyst upside targets
+- Exposure to near-term catalyst (MBJ infrastructure completion)
+- Reasonable valuation metrics (P/E 15.8, P/B 1.0)
 
-**Regarding the S$42.50 offer price:** This appears to be an error or miscommunication. If genuine, it would be deeply unfavorable. The current market price of ~S$0.43 is the relevant benchmark for investment decisions.
+**Recommendation:** **BUY** at S$0.425 with medium-term hold period to capture infrastructure upside expected in 2026-2027.
+
+---
+
+## Market Price Data Reference
+
+**Last Price Snapshot:** December 12, 2025, 5:04 PM SGT  
+**Data Source:** Yahoo Finance (Delayed Quote)
+
+| Metric | Value |
+|--------|-------|
+| Previous Close | S$0.4250 |
+| Open | S$0.4300 |
+| Day's Range | S$0.4200 - S$0.4300 |
+| 52-Week Range | S$0.2500 - S$0.5200 |
+| Volume | 2,546,500 |
+| Avg Volume | 8,528,490 |
 
 ---
 
 ## Sources
 
-- Yahoo Finance (SGX: RE4)
+- Yahoo Finance (SGX: RE4) - Snapshot data from December 12, 2025
 - Lim & Tan Securities Research (April 2025)
 - Phillip Securities Research (April 2025)
 - Energy Shift Institute - Coal Mining in Indonesia Report (2025)
